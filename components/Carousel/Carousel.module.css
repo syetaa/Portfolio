@@ -16,7 +16,7 @@
     align-items: center;
     column-gap: 50px;
     padding: 50px;
-    background: #2A2A2A;     /* !!! */
+    background: var(--about-background);     /* !!! */
     border-radius: 29px;
 }
 .card_cont2{
@@ -27,13 +27,13 @@
 }
 .text1{
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
     color: #fff;
     text-transform: uppercase;
 }
 .text2{
     font-size: 18px;
-    font-weight: 200;
+    font-weight: 300;
     color: #fff;
     width: 300px;
     text-align: center;
@@ -42,19 +42,25 @@
     display: flex;
     align-items: center;
     column-gap: 5px;
-    color: #E2A100;
+    color: var( --logo-color);
 }
 .text3 > a{
     text-transform: uppercase;
     text-decoration: underline;
     font-size: 18px;
-    color: #E2A100;
+    color: var( --logo-color);
 }
-
+.text3:hover{
+    transform: scale(1.05);
+}
+.next_btn,.prev_btn{
+    color: var( --logo-color);
+}
 .next_btn:hover,.prev_btn:hover{
     cursor: pointer;
     transform: scale(1.1);
 }
+
 
 
 @media (max-width: 1100px) { 

@@ -19,7 +19,7 @@ const Tabs = () => {
                     <div className={styles.cont1_1}>
                         <div className={styles.card}>
                             <div className={styles.img}>
-                                <FaReact size={100} color='#00C4F0' />
+                                <FaReact size={100} />
                             </div>
                             <div className={styles.text}>
                                 React.js
@@ -27,7 +27,7 @@ const Tabs = () => {
                         </div>
                         <div className={styles.card}>
                             <div className={styles.img}>
-                                <SiNextdotjs size={100} color='#00C4F0' />
+                                <SiNextdotjs size={100} />
                             </div>
                             <div className={styles.text}>
                                 Next.js
@@ -37,7 +37,7 @@ const Tabs = () => {
                     <div className={styles.cont1_2}>
                         <div className={styles.card}>
                             <div className={styles.img}>
-                                <IoLogoPython size={100} color='#00C4F0' />
+                                <IoLogoPython size={100} />
                             </div>
                             <div className={styles.text}>
                                 Python
@@ -45,7 +45,7 @@ const Tabs = () => {
                         </div>
                         <div className={styles.card}>
                             <div className={styles.img}>
-                                <IoLogoJavascript size={100} color='#00C4F0' />
+                                <IoLogoJavascript size={100} />
                             </div>
                             <div className={styles.text}>
                                 JS
@@ -58,7 +58,7 @@ const Tabs = () => {
                 <div className={styles.cont1}>
                     <div className={styles.card}>
                         <div className={styles.img}>
-                            <MdDesignServices size={100} color='#00C4F0'/>
+                            <MdDesignServices size={100}/>
                         </div>
                         <div className={styles.text}>
                             UX/UI Design
@@ -66,7 +66,7 @@ const Tabs = () => {
                     </div>
                     <div className={styles.card}>
                         <div className={styles.img}>
-                        <MdOutlinePersonalVideo size={100} color='#00C4F0' />
+                        <MdOutlinePersonalVideo size={100} />
                         </div>
                         <div className={styles.text}>
                             Frontend

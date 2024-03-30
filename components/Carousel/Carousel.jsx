@@ -16,11 +16,11 @@ import img_carousel3 from "@/public/img_carousel3.png"
 function Carousel() {
 
     const renderNextButton = ({ isDisabled }) => {
-      return <FaArrowRight size={30} color='#E2A100' className={styles.next_btn}/>;
+      return <FaArrowRight size={30} className={styles.next_btn}/>;
     };
 
    const renderPrevButton = ({ isDisabled }) => {
-      return <FaArrowLeft size={30} color='#E2A100' className={styles.prev_btn}/>;
+      return <FaArrowLeft size={30} className={styles.prev_btn}/>;
     };
 
 
@@ -105,7 +105,7 @@ function Carousel() {
                 </div>
                 <div className={styles.card_cont2}>
                     <div className={styles.text1}>
-                        Landing Ice-cream
+                        HBoard
                     </div>
                     <div className={styles.text2}>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut orci eu elit consequat posuere ut sed elit. Nulla et tristique felis. Morbi quis orci non purus blandit fringilla. Etiam et mollis eros. Duis venenatis vulputate lacus, non tristique eros placerat vel. Nam nec magna lacus. Etiam euismod egestas mauris nec mollis. Phasellus efficitur et ex vel condimentum. Cras enim purus, tempor sed massa vel, accumsan bibendum magna. Nullam hendrerit cursus purus, sit amet viverra arcu gravida vel.

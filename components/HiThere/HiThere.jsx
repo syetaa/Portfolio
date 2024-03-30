@@ -1,7 +1,7 @@
 import Image from "next/image";
 import styles from "./HiThere.module.css"
 
-import Image_main from "@/public/Gleb.png"
+import Image_home from "@/public/home_img.png"
 
 
 const HiThere = () => {
@@ -23,7 +23,7 @@ const HiThere = () => {
                     </div>
                 </div>
                 <div className={styles.cont1}>
-                    <Image src={Image_main} width={632} 
+                    <Image src={Image_home} width={632} 
                     height={674} quality={100} alt="imghome" priority/>
                 </div>
             </div>

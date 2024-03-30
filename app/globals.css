@@ -4,7 +4,7 @@ html[data-theme='dark'] {
   --btn-background-color: #00C4F0;
   --logo-color: #00C4F0;
 
-  --card-background: linear-gradient(131deg, #373737 0%, #2b2b2b 100.52%);;
+  --card-background: #2a2a2a;
   --skills-background: #2a2a2a;
   --about-background: #2c2c2c;
 
@@ -21,9 +21,9 @@ html[data-theme='light'] {
   --logo-color: #E2A100;
   
 
-  --card-background: #fff;
-  --skills-background: #4f4f4f;
-  --about-background: #2c2c2c;
+  --card-background: #4F4F4F;
+  --skills-background: #ffffff;
+  --about-background: #4F4F4F;
 
   --background-color1: #EEEFF1;
   --background-color2: #ffffff;

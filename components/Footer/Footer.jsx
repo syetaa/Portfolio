@@ -30,7 +30,7 @@ const Footer = () => {
                             Email: <a href="#">soinovmich@yandex.ru</a>
                         </div>
                         <div className={styles.text1}>
-                            GitHub: <a href="https://github.com/syetaa">@syetaa</a>
+                            GitHub: <a href="https://github.com/syetaa" target="_blank">@syetaa</a>
                         </div>
                         <div className={styles.text1}>
                             Tg: <a href="https://t.me/syetaaa0" target="_blank">@syetaaa0</a>

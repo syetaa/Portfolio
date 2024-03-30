@@ -26,14 +26,17 @@
     row-gap: 33px;
     width: 270px;
     height: 270px;
-    background: var(--skills-background);
+    background: var(--about-background);
     border-radius: 29px;
     box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.47);
 }
+.img{
+    color: var(--btn-background-color);
+}
 .text{
     font-size: 24px;
-    font-weight: 400;
-    color: var(--text-color);
+    font-weight: 500;
+    color: #fff;;
 }
 
 @media (max-width: 1250px) { 
