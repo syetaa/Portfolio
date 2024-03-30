@@ -51,13 +51,13 @@
     }
     .links{
         display: flex;
-        column-gap: 10px;
+        column-gap: 7px;
     }
 }
 @media (max-width: 500px) { 
     .links a{
         font-size: 14px;
-        font-weight: 400;
+        font-weight: 500;
     }
     .btns{
         display: flex;
