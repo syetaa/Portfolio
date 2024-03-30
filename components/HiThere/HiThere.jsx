@@ -14,7 +14,7 @@ const HiThere = () => {
                         HI THERE, <br/>IM MICHEL
                         </div>
                         <div className={styles.text2}>
-                            I've been doing web design, front-end and<br/> back-end development. Do you need a<br/> website design, site layout, or maybe a<br/> turnkey website? Then contact me
+                            I been doing web design, front-end and<br/> back-end development. Do you need a<br/> website design, site layout, or maybe a<br/> turnkey website? Then contact me
                         </div>
                     </div>
                     
