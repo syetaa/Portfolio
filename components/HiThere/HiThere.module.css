@@ -53,7 +53,7 @@
     .text3{
         display: flex;
         justify-content: center;
-        margin-bottom: 20px;
+        margin-bottom: 50px;
     }
 }
 @media (max-width: 650px) { 
