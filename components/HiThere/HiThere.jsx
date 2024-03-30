@@ -11,7 +11,7 @@ const HiThere = () => {
                 <div className={styles.cont}>
                     <div className={styles.cont0}>
                         <div className={styles.text1}>
-                        HI THERE, <br/>I’M MICHEL
+                        HI THERE, <br/>IM MICHEL
                         </div>
                         <div className={styles.text2}>
                             I've been doing web design, front-end and<br/> back-end development. Do you need a<br/> website design, site layout, or maybe a<br/> turnkey website? Then contact me

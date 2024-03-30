@@ -41,7 +41,7 @@ function Carousel() {
         <div key={1} className={styles.item}>
             <div className={styles.card}>
                 <div className={styles.card_cont1}>
-                    <Image src={img_carousel3} />
+                    <Image src={img_carousel3} alt="carousel_img"/>
                 </div>
                 <div className={styles.card_cont2}>
                     <div className={styles.text1}>
@@ -61,7 +61,7 @@ function Carousel() {
         <div key={2} className={styles.item}>
             <div className={styles.card}>
                 <div className={styles.card_cont1}>
-                    <Image src={img_carousel2} />
+                    <Image src={img_carousel2} alt="carousel_img"/>
                 </div>
                 <div className={styles.card_cont2}>
                     <div className={styles.text1}>
@@ -81,7 +81,7 @@ function Carousel() {
         <div key={3} className={styles.item}>
             <div className={styles.card}>
                 <div className={styles.card_cont1}>
-                    <Image src={img_carousel3} />
+                    <Image src={img_carousel3} alt="carousel_img"/>
                 </div>
                 <div className={styles.card_cont2}>
                     <div className={styles.text1}>
@@ -101,7 +101,7 @@ function Carousel() {
         <div key={4} className={styles.item}>
             <div className={styles.card}>
                 <div className={styles.card_cont1}>
-                    <Image src={img_carousel1} />
+                    <Image src={img_carousel1} alt="carousel_img"/>
                 </div>
                 <div className={styles.card_cont2}>
                     <div className={styles.text1}>

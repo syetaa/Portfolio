@@ -42,7 +42,7 @@ const Footer = () => {
                 </div>
                 <div className={styles.cont2}>
                     <div className={styles.cont2_1}>
-                        <Image src={logo_footer}/>
+                        <Image src={logo_footer} alt="footer_img"/>
                         <a href="#navpage"><IoIosArrowRoundUp color="#fff" size={40}/></a>
                     </div>
                     <div className={styles.cont2_2}>
