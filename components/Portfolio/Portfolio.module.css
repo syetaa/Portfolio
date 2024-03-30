@@ -1,0 +1,11 @@
+.textmain{
+    padding: 70px 0;
+    background: var(--background-color2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-weight: 600;
+    color: #fff;      /* !!! */
+    text-transform: uppercase;
+}
