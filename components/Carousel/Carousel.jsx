@@ -41,7 +41,7 @@ function Carousel() {
         <div key={1} className={styles.item}>
             <div className={styles.card}>
                 <div className={styles.card_cont1}>
-                    <Image src={img_carousel3} alt="carousel_img"/>
+                    <a href="https://github.com/syetaa/NftIco" target="_blank"><Image src={img_carousel3} alt="carousel_img"/></a>
                 </div>
                 <div className={styles.card_cont2}>
                     <div className={styles.text1}>
@@ -51,7 +51,7 @@ function Carousel() {
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut orci eu elit consequat posuere ut sed elit. Nulla et tristique felis. Morbi quis orci non purus blandit fringilla. Etiam et mollis eros. Duis venenatis vulputate lacus, non tristique eros placerat vel. Nam nec magna lacus. Etiam euismod egestas mauris nec mollis. Phasellus efficitur et ex vel condimentum. Cras enim purus, tempor sed massa vel, accumsan bibendum magna. Nullam hendrerit cursus purus, sit amet viverra arcu gravida vel.
                     </div>
                     <div className={styles.text3}>
-                        <a href="https://github.com/syetaa/NftIco" target="blank">More</a>  
+                        <a href="https://github.com/syetaa/NftIco" target="_blank">More</a>  
                         <FaArrowRightLong />
                     </div>
                 </div>  
@@ -61,7 +61,7 @@ function Carousel() {
         <div key={2} className={styles.item}>
             <div className={styles.card}>
                 <div className={styles.card_cont1}>
-                    <Image src={img_carousel2} alt="carousel_img"/>
+                <a href="https://github.com/syetaa" target="_blank"><Image src={img_carousel2} alt="carousel_img"/></a>
                 </div>
                 <div className={styles.card_cont2}>
                     <div className={styles.text1}>
@@ -71,7 +71,7 @@ function Carousel() {
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut orci eu elit consequat posuere ut sed elit. Nulla et tristique felis. Morbi quis orci non purus blandit fringilla. Etiam et mollis eros. Duis venenatis vulputate lacus, non tristique eros placerat vel. Nam nec magna lacus. Etiam euismod egestas mauris nec mollis. Phasellus efficitur et ex vel condimentum. Cras enim purus, tempor sed massa vel, accumsan bibendum magna. Nullam hendrerit cursus purus, sit amet viverra arcu gravida vel.
                     </div>
                     <div className={styles.text3}>
-                        <a href="https://github.com/syetaa" target="blank">More</a>  
+                        <a href="https://github.com/syetaa" target="_blank">More</a>  
                         <FaArrowRightLong />
                     </div>
                 </div>
@@ -81,7 +81,7 @@ function Carousel() {
         <div key={3} className={styles.item}>
             <div className={styles.card}>
                 <div className={styles.card_cont1}>
-                    <Image src={img_carousel3} alt="carousel_img"/>
+                <a href="https://github.com/syetaa" target="_blank"><Image src={img_carousel3} alt="carousel_img"/></a>
                 </div>
                 <div className={styles.card_cont2}>
                     <div className={styles.text1}>
@@ -91,7 +91,7 @@ function Carousel() {
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut orci eu elit consequat posuere ut sed elit. Nulla et tristique felis. Morbi quis orci non purus blandit fringilla. Etiam et mollis eros. Duis venenatis vulputate lacus, non tristique eros placerat vel. Nam nec magna lacus. Etiam euismod egestas mauris nec mollis. Phasellus efficitur et ex vel condimentum. Cras enim purus, tempor sed massa vel, accumsan bibendum magna. Nullam hendrerit cursus purus, sit amet viverra arcu gravida vel.
                     </div>
                     <div className={styles.text3}>
-                            <a href="https://github.com/syetaa/NftIco" target="blank">More</a>  
+                            <a href="https://github.com/syetaa/NftIco" target="_blank">More</a>  
                         <FaArrowRightLong />
                     </div>
                 </div>
@@ -101,7 +101,7 @@ function Carousel() {
         <div key={4} className={styles.item}>
             <div className={styles.card}>
                 <div className={styles.card_cont1}>
-                    <Image src={img_carousel1} alt="carousel_img"/>
+                <a href="https://github.com/syetaa" target="_blank"><Image src={img_carousel1} alt="carousel_img"/></a>
                 </div>
                 <div className={styles.card_cont2}>
                     <div className={styles.text1}>
@@ -111,7 +111,7 @@ function Carousel() {
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut orci eu elit consequat posuere ut sed elit. Nulla et tristique felis. Morbi quis orci non purus blandit fringilla. Etiam et mollis eros. Duis venenatis vulputate lacus, non tristique eros placerat vel. Nam nec magna lacus. Etiam euismod egestas mauris nec mollis. Phasellus efficitur et ex vel condimentum. Cras enim purus, tempor sed massa vel, accumsan bibendum magna. Nullam hendrerit cursus purus, sit amet viverra arcu gravida vel.
                     </div>
                     <div className={styles.text3}>
-                        <a href="https://github.com/syetaa" target="blank">More</a>  
+                        <a href="https://github.com/syetaa" target="_blank">More</a>  
                         <FaArrowRightLong />
                     </div>
                 </div>

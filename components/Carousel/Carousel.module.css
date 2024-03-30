@@ -96,7 +96,7 @@
         border-radius: 29px;
         width: 320px;
     }
-    .card_cont1 > img{
+    .card_cont1 > a > img{
         width: 300px;
         height: auto;
     }

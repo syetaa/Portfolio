@@ -9,3 +9,10 @@
     color: #fff;      /* !!! */
     text-transform: uppercase;
 }
+
+@media (max-width: 500px) { 
+    .textmain{
+        font-size: 36px;
+        font-weight: 500;
+    }
+}
