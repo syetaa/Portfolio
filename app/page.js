@@ -13,7 +13,7 @@ export default function Home() {
       <Tabs/>
       <Portfolio/>
       <Carousel/>
-      <About/>
+      {/* <About/> */}
     </div>
   );
 }

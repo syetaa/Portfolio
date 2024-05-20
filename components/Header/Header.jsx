@@ -29,7 +29,7 @@ const Header = () => {
                     <Link href="#navpage">Home</Link>    
                     <Link href="#skillspage">Skills</Link> 
                     <Link href="#portfoliopage">Portfolio</Link> 
-                    <Link href="#aboutpage">About me</Link>     
+                    {/* <Link href="#aboutpage">About me</Link>      */}
                     <Link href="#contactpage">Contact</Link>
                 </div>
                 <div className={styles.btns}>

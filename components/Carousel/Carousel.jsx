@@ -12,6 +12,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 import img_carousel1 from "@/public/img_carousel1.png"
 import img_carousel2 from "@/public/img_carousel2.png"
 import img_carousel3 from "@/public/img_carousel3.png"
+import img_carousel4 from "@/public/img_carousel4.png"
 
 function Carousel() {
 
@@ -112,6 +113,26 @@ function Carousel() {
                     </div>
                     <div className={styles.text3}>
                         <a href="https://github.com/syetaa" target="_blank">More</a>  
+                        <FaArrowRightLong />
+                    </div>
+                </div>
+            </div>
+        </div>,
+
+        <div key={5} className={styles.item}>
+            <div className={styles.card}>
+                <div className={styles.card_cont1}>
+                    <a href="https://github.com/syetaa/Hotels" target="_blank"><Image src={img_carousel4} alt="carousel_img" /></a>
+                </div>
+                <div className={styles.card_cont2}>
+                    <div className={styles.text1}>
+                        Hotels
+                    </div>
+                    <div className={styles.text2}>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut orci eu elit consequat posuere ut sed elit. Nulla et tristique felis. Morbi quis orci non purus blandit fringilla. Etiam et mollis eros. Duis venenatis vulputate lacus, non tristique eros placerat vel. Nam nec magna lacus. Etiam euismod egestas mauris nec mollis. Phasellus efficitur et ex vel condimentum. Cras enim purus, tempor sed massa vel, accumsan bibendum magna. Nullam hendrerit cursus purus, sit amet viverra arcu gravida vel.
+                    </div>
+                    <div className={styles.text3}>
+                        <a href="https://github.com/syetaa/Hotels" target="_blank">More</a>
                         <FaArrowRightLong />
                     </div>
                 </div>
